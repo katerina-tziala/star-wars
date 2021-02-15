@@ -1,0 +1,14 @@
+.characters-list {
+  list-style-type: none;
+  padding: 0 10px;
+}
+
+.characters-list>li {
+  margin: 10px 0;
+  padding-bottom: 20px;
+}
+
+.characters-list>li:not(:last-of-type) {
+  border-bottom: 1px solid #fff399;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,21 @@
+.movie-preview-card {
+  width: 35%;
+}
+
+.movie-preview-details-button {
+  padding: 5px 8px;
+  background-color: #fff6b3;
+  color: #1a1a1a;
+  display: inline-block;
+  text-transform: uppercase;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 20px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.movie-preview-details-button:hover {
+  background-color: #FFE300;
+  color: #000000;
+}

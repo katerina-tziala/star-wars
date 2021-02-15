@@ -1,0 +1,12 @@
+.movie-title {
+  text-align: left;
+  font-size: 1.4rem;
+  color: #FFE300;
+}
+
+.movie-subtitle {
+  text-align: left;
+  font-size: 1.1rem;
+  color: #fff080;
+  text-transform: uppercase;
+}

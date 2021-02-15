@@ -1,0 +1,12 @@
+.character-name {
+  color: #FFE300;
+  font-size: 1.1rem;
+}
+
+.character-details {
+  padding: 5px;
+}
+
+.character-details>.character-details-item:not(:last-of-type) {
+  margin-right: 15px;
+}

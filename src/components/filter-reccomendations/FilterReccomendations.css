@@ -1,0 +1,19 @@
+.filter-reccomendations-container {
+  position: absolute;
+  width: 100%;
+  list-style-type: none;
+  padding: 0;
+  z-index: 2000;
+  background: #000;
+}
+
+.filter-reccomendation-item {
+  cursor: pointer;
+  padding: 5px;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.filter-reccomendation-item:not(:last-of-type) {
+  border-bottom: 1px solid #fff399;
+}
