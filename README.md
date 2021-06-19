@@ -1,6 +1,6 @@
 # Star Wars
 
-A React.js web application that uses the [Star Wars API](https://swapi.dev/).
+A Single Page Application using React.js and the [Star Wars API](https://swapi.dev/) to display information about star wars.
 
 ## Running the App Locally
 
