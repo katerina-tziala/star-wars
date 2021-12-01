@@ -1,4 +1,4 @@
-# Star Wars
+# <img src="https://github.com/katerina-tziala/star-wars/blob/master/public/logo192.png" alt="react" width="44" height="44" align="left"> Star Wars
 
 A Single Page Application using React.js and the [Star Wars API](https://swapi.dev/) to display information about star wars.
 
