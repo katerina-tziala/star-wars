@@ -2,6 +2,10 @@
 
 A Single Page Application using React.js and the [Star Wars API](https://swapi.dev/) to display information about star wars.
 
+<p align="center">
+    <img src="https://github.com/katerina-tziala/star-wars/blob/master/star-wars-overview.png" alt="star wars overview" width="80%" height="auto">
+</p>
+
 ## Running the App Locally
 
 1. Fork and clone this repository.
