@@ -6,24 +6,10 @@ A Single Page Application using React.js and the [Star Wars API](https://swapi.d
 
 1. Fork and clone this repository.
 
-2. To install the dependencies of the app, run  in the project directory:
-
-    ```
-    npm install
-    ```
-
-    or
-
-    ```
-    npm i
-    ```
+2. To install the dependencies of the app, run  in the project directory: ``` npm install ``` or ``` npm i ```
     
 
-3. To start the app, run  in the project directory:
-
-    ```
-    npm start
-    ``` 
+3. To start the app, run  in the project directory: ``` npm start ``` 
 
 4. Access the app locally at: http://localhost:3000/
 
