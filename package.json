@@ -31,14 +31,9 @@
     "reactjs-with-es6",
     "single-page-app",
     "redux",
-    "star-wars"     
+    "star-wars"
   ],
   "author": "Katerina Tziala",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/katerina-tziala/star-wars/issues"
-  },
-  "homepage": "https://github.com/katerina-tziala/star-wars#readme",
   "eslintConfig": {
     "extends": [
       "react-app",
